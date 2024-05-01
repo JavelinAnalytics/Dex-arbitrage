@@ -1,7 +1,7 @@
 # Project Dex-Arbitrage
-Multi level Dex-arbitrage strategy for iterating through multiple token pairs, for token pairs - multiple blockchains, 
-and for blockchains - multiple dex's. Perform an arbitrage via atomic transaction if a trade is deemed profitable 
-after considering for dynamic fees and slippage.
+Multi level Dex-arbitrage trading algorithm iterating through multiple token pairs, and for token pairs - iteration through multiple blockchains, 
+and for blockchains - iteration through multiple decentralized exchanges. Performs an arbitrage via atomic transaction if a trade is deemed profitable 
+after considering for dynamic fees and slippage costs.
 ## Requirements
 - Python >= 3.7
 - Eulith API key
